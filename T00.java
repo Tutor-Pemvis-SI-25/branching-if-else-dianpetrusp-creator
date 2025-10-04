@@ -1,5 +1,4 @@
 // Dian Petrus Panjaitan Nim 12S25057
-
 import java.util.*;
 import java.lang.Math;
 
@@ -47,3 +46,4 @@ public class T00 {
         }
     }
 }
+
