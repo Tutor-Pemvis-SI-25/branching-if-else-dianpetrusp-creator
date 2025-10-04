@@ -1,4 +1,5 @@
 // Dian Petrus Panjaitan Nim 12S25057
+// Julia Simatupang Nim 12S25020
 import java.util.*;
 import java.lang.Math;
 
