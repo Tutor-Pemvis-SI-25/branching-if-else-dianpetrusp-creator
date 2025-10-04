@@ -9,8 +9,8 @@ public class T00 {
     public static void main(String[] args) {
         int a, b, tambah, kali;
 
-        a = Integer.parseInt(input.nextLine());
-        b = Integer.parseInt(input.nextLine());
+        a = input.nextInt();
+        b = input.nextInt();
         if (a % 2 == 0) {
             System.out.println("Bilangan pertama: Genap");
         } else {
